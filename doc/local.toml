@@ -1,0 +1,5 @@
+[xxljob] # xxljob的配置
+ServerAddr = "http://127.0.0.1:8080/xxl-job-admin"  # xxl-job-admin地址
+AccessToken = "default_token" # xxl-job-admin accessToken
+AppName = "xxljob-demo" # 执行器名称 一般对应自己的应用名
+Port = 8088 # 执行器端口 默认9999
